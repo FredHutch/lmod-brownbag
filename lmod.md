@@ -13,3 +13,5 @@
 
 
 ## slide 3
+This is slide 3
+Note: this is a note on slide 3
